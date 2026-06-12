@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/contains-duplicate/submissions/2030909191/
+
 /**
  * @param {number[]} nums
  * @return {boolean}
